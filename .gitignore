@@ -1,0 +1,13 @@
+﻿node_modules/
+.angular/
+www/
+dist/
+coverage/
+.env
+.env.*
+*.log
+android/.gradle/
+android/local.properties
+android/build/
+android/app/build/
+.vscode/

@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "name": "Camiseta básica",
+    "category": "Hombre",
+    "price": 49000,
+    "emoji": "👕",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco",
+      "Azul"
+    ],
+    "stock": 8,
+    "description": "Prenda de Hilo Urbano. Referencia de demostración.",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 2,
+    "name": "Chaqueta urbana",
+    "category": "Hombre",
+    "price": 169000,
+    "emoji": "🧥",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco",
+      "Azul"
+    ],
+    "stock": 8,
+    "description": "Prenda de Hilo Urbano. Referencia de demostración.",
+    "image": "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 3,
+    "name": "Pantalón denim",
+    "category": "Hombre",
+    "price": 129000,
+    "emoji": "👖",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco",
+      "Azul"
+    ],
+    "stock": 8,
+    "description": "Prenda de Hilo Urbano. Referencia de demostración.",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 4,
+    "name": "Vestido casual",
+    "category": "Mujer",
+    "price": 139000,
+    "emoji": "👗",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco",
+      "Azul"
+    ],
+    "stock": 8,
+    "description": "Prenda de Hilo Urbano. Referencia de demostración.",
+    "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 5,
+    "name": "Blusa clásica",
+    "category": "Mujer",
+    "price": 79000,
+    "emoji": "👚",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco",
+      "Azul"
+    ],
+    "stock": 8,
+    "description": "Prenda de Hilo Urbano. Referencia de demostración.",
+    "image": "https://images.unsplash.com/photo-1564257577-7cadc8a6d78d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 6,
+    "name": "Chaqueta ligera",
+    "category": "Mujer",
+    "price": 159000,
+    "emoji": "🧥",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco",
+      "Azul"
+    ],
+    "stock": 8,
+    "description": "Prenda de Hilo Urbano. Referencia de demostración.",
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 7,
+    "name": "Gorra urbana",
+    "category": "Accesorios",
+    "price": 39000,
+    "emoji": "🧢",
+    "sizes": [
+      "Única"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco",
+      "Azul"
+    ],
+    "stock": 8,
+    "description": "Prenda de Hilo Urbano. Referencia de demostración.",
+    "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 8,
+    "name": "Bolso diario",
+    "category": "Accesorios",
+    "price": 89000,
+    "emoji": "👜",
+    "sizes": [
+      "Única"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco",
+      "Azul"
+    ],
+    "stock": 8,
+    "description": "Prenda de Hilo Urbano. Referencia de demostración.",
+    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 9,
+    "name": "Cinturón básico",
+    "category": "Accesorios",
+    "price": 45000,
+    "emoji": "🧷",
+    "sizes": [
+      "Única"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco",
+      "Azul"
+    ],
+    "stock": 8,
+    "description": "Prenda de Hilo Urbano. Referencia de demostración.",
+    "image": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 10,
+    "name": "Camiseta oversize",
+    "category": "Mujer",
+    "price": 69000,
+    "emoji": "👕",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco",
+      "Azul"
+    ],
+    "stock": 8,
+    "description": "Prenda de Hilo Urbano. Referencia de demostración.",
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 11,
+    "name": "Jeans rectos",
+    "category": "Mujer",
+    "price": 149000,
+    "emoji": "👖",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco",
+      "Azul"
+    ],
+    "stock": 8,
+    "description": "Prenda de Hilo Urbano. Referencia de demostración.",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 12,
+    "name": "Sudadera deportiva",
+    "category": "Hombre",
+    "price": 119000,
+    "emoji": "👕",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Negro",
+      "Blanco",
+      "Azul"
+    ],
+    "stock": 8,
+    "description": "Prenda de Hilo Urbano. Referencia de demostración.",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=85"
+  }
+]
